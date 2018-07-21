@@ -1,0 +1,159 @@
+a{
+    color: #777777;
+}
+a:hover {
+    background-color: #4aaaa5;
+}
+
+body{
+    background-color: rgb(164, 165, 167);
+    width: 960px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.headerbox {
+    border: solid #cccccc;
+    position: fixed;
+    color:#777777;
+    background-color: #ffffff;
+    padding: 1px 30%;
+    left: 5%;
+    right:5%;
+    height: 60px;
+  
+   
+}
+.boxroundname{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color:#ffffff;
+    padding: 1.75% 15%;
+    position: fixed;
+    left:5%;
+    margin-left: 10%;
+    margin-right: 95%;
+
+  
+   
+   
+}
+.middlebox{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:#ffffff;
+    height: 20px;
+    position: fixed;
+    padding: 10% 33%;
+    top: 20%;
+    left:10%;
+    right:10%;
+    margin-right: 30%;
+    margin-left: 5%;
+}
+#bottombox{
+    border-top: solid lightgray;
+    background-color:#ffffff;
+    color: #777777;
+    position: fixed;
+    padding: 10% 33%;
+    top: 30%;
+    left: 10%;
+    right: 10%;
+    bottom: 20%;
+    margin-right: 30%;
+    margin-left: 5%;
+}
+#aboutmePara{
+    
+    color:#777777;
+    padding: 10% 25%;
+    position: fixed;
+    top: 20%;
+    left:12%;
+}
+ 
+#image{
+    position: fixed;
+    top: 35%;
+    left: 17%;
+    z-index: 1;
+}
+
+#image2{
+    position: fixed;
+    top: 35%;
+    left: 60%;
+    z-index: 1;
+}
+#image3{
+        position: fixed;
+        top: 60%;
+        left: 17%;
+        z-index: 1;
+}
+#image4{
+    position: fixed;
+    top: 60%;
+    left: 60%;
+    z-index: 1;
+}
+.footer{
+    border-top: solid #4aaaa5;
+    color:#ffffff;
+    position: fixed;
+    top: 85%;
+    left: 5%;
+    right: 5%;
+    padding: 1% 30%;
+    background-color: #666666;
+ 
+}
+.links{
+    text-align: center;
+    color: #777777;
+    position: fixed;
+    z-index: 1;
+    top:5%;
+    left: 75%;
+  
+}
+
+.h2 {
+    border-left: 500px;
+    color: #4aaaa5;
+    position:fixed;
+    top: 20%;
+    left: 17%;
+    z-index: 2;
+}
+
+.h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    z-index: 2;
+    position: fixed;
+    top: 0%;
+    left:18%;
+    color: #ffffff
+
+}
+
+.container2{
+    position: fixed;
+    top: 40%;
+    left:20%;
+    background-color: red;
+    color: #777777;   
+}
+.contacts{
+    float: left;
+    margin-left: 15%;
+    margin-right: 20%;
+    color:#777777;
+    background-color: #ffffff;
+    padding: 1% 25%;
+    position: fixed;
+    top:35%
+    
+    
+    
+
+}
